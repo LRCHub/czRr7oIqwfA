@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Street Talkin'",
+  "base_artist": "Slick Rick",
+  "createdAt": "2026-03-17T21:56:18.435598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick feat. OutKast",
+      "has_synced": true,
+      "path": "select/01_Street_Talkin'_Slick_Rick_feat._OutKast.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/02_Street_Talkin'_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Street Talkin’",
+      "artist": "Slick Rick feat. OutKast",
+      "has_synced": true,
+      "path": "select/03_Street_Talkin’_Slick_Rick_feat._OutKast.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Street Talkin' (ft. OutKast)",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/04_Street_Talkin'_(ft._OutKast)_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Street Talkin' (feat. Outkast)",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/05_Street_Talkin'_(feat._Outkast)_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Street Talkin’",
+      "artist": "Slick Rick featuring OutKast",
+      "has_synced": true,
+      "path": "select/06_Street_Talkin’_Slick_Rick_featuring_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick, OutKast",
+      "has_synced": true,
+      "path": "select/07_Street_Talkin'_Slick_Rick,_OutKast.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick",
+      "has_synced": false,
+      "path": "select/08_Street_Talkin'_Slick_Rick.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Street Talkin",
+      "artist": "Slick Rick",
+      "has_synced": false,
+      "path": "select/09_Street_Talkin_Slick_Rick.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Street Talkin’",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/10_Street_Talkin’_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick & Outkast",
+      "has_synced": true,
+      "path": "select/11_Street_Talkin'_Slick_Rick_&_Outkast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Street Talkin' feat. OutKast",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/12_Street_Talkin'_feat._OutKast_Slick_Rick.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Street Talkin (feat Outkast)",
+      "artist": "Slick Rick",
+      "has_synced": true,
+      "path": "select/13_Street_Talkin_(feat_Outkast)_Slick_Rick.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Street Talkin'",
+      "artist": "Slick Rick",
+      "has_synced": false,
+      "path": "select/pl_01_Street_Talkin'_Slick_Rick.txt"
+    }
+  ]
+}
